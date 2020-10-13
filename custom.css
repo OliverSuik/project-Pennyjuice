@@ -37,6 +37,10 @@
     background-color: #edb04e;
 }
 
+a:hover {
+    text-decoration:none;
+}
+
 .img-fluid {
     max-width: 80%;
     height: auto
