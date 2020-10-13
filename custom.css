@@ -99,3 +99,12 @@ footer {
 hr {
     border: 1px solid orange;
 }
+
+.confirmation-page {
+    padding: 30px;
+}
+
+.confirmation-button {
+
+    text-align: center;
+}
